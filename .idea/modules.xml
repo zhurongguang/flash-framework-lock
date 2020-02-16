@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flash-framework-lock.iml" filepath="$PROJECT_DIR$/flash-framework-lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flash-framework-lock-core/flash-framework-lock-core.iml" filepath="$PROJECT_DIR$/flash-framework-lock-core/flash-framework-lock-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flash-framework-lock-redis/flash-framework-lock-redis.iml" filepath="$PROJECT_DIR$/flash-framework-lock-redis/flash-framework-lock-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flash-framework-lock-zookeeper/flash-framework-lock-zookeeper.iml" filepath="$PROJECT_DIR$/flash-framework-lock-zookeeper/flash-framework-lock-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flash-framework-lock-redisson/flash-framework-redisson.iml" filepath="$PROJECT_DIR$/flash-framework-lock-redisson/flash-framework-redisson.iml" />
+    </modules>
+  </component>
+</project>
